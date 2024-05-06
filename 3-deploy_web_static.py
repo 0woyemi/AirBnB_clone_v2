@@ -10,7 +10,7 @@ Usage:
 from fabric.api import local, env, put, run
 from time import strftime
 import os.path
-env.hosts = ['35.229.54.225', '35.231.225.251']
+env.hosts = ['54.157.32.137', '52.55.249.213']
 
 
 def do_pack():
